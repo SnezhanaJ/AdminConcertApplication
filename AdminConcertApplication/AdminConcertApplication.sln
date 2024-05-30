@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminConcertApplication", "AdminConcertApplication.csproj", "{26413E6D-CACC-4EFE-AF70-70C89916CE5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26413E6D-CACC-4EFE-AF70-70C89916CE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26413E6D-CACC-4EFE-AF70-70C89916CE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26413E6D-CACC-4EFE-AF70-70C89916CE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26413E6D-CACC-4EFE-AF70-70C89916CE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FCDAF05-0D97-4F65-9049-DB951073B311}
+	EndGlobalSection
+EndGlobal
